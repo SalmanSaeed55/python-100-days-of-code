@@ -10,7 +10,7 @@ The repository is organized by day, with each day's code and exercises stored in
 
 ## 📅 Daily Learning Log
 
-Track your progress through the course with detailed daily summaries. Each entry includes key topics covered, practical applications, and the learning value for your Python journey.
+Track your progress through the course with detailed daily summaries. Each entry includes key topics covered, practical applications, and the learning value for my Python journey.
 
 ### Entry Format
 
