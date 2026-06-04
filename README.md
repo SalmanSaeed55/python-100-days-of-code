@@ -17,6 +17,7 @@ Track your progress through the course with detailed daily summaries. Each entry
 | Day | Folder | Topics Covered | Key Learnings | Why It Matters | Project |
 |-----|--------|----------------|---------------|----------------|---------|
 | **001** | `001_Prints_Variables_and_Inputs` | String printing, variable declaration, user input handling | Understanding print() output, storing data in variables, taking user input via input() | Foundational skills for all Python programs; essential for creating interactive applications | Band Name Generator |
+| **002** | `002_Data_Types_and_String_Manipulation` | Data types, type casting, mathematical operators, rounding, f-strings | Working with strings, integers, floats, booleans, converting between types, and formatting output cleanly | Builds the ability to store, convert, and present data accurately in real programs | Tip Calculator |
 
 ---
 
@@ -29,7 +30,7 @@ Track your progress through the course with detailed daily summaries. Each entry
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 001/100
-- 🔄 Current focus: Building fundamentals
-- 📈 Next milestone: Data structures and control flow
+- ✅ Days completed: 002/100
+- 🔄 Current focus: Data Types and String Manipulation
+- 📈 Next milestone: Control Flow and Logical operators
 
