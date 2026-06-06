@@ -20,6 +20,7 @@ practical applications, and the learning value for my Python journey.
 | **001** | `001_Prints_Variables_and_Inputs` | String printing, variable declaration, user input handling | Understanding print() output, storing data in variables, taking user input via input() | Foundational skills for all Python programs; essential for creating interactive applications | Band Name Generator |
 | **002** | `002_Data_Types_and_String_Manipulation` | Data types, type casting, mathematical operators, rounding, f-strings | Working with strings, integers, floats, booleans, converting between types, and formatting output cleanly | Builds the ability to store, convert, and present data accurately in real programs | Tip Calculator |
 | **003** | `003_Control_Flow_and_Logical_Operators` | If statements, boolean logic, comparison operators, logical operators | Controlling program flow with if/elif/else, combining conditions with and/or/not | Enables decision-making in programs; essential for real-world logic and branching | Treasure Island Game |
+| **004** | `004_Randomisation_and_Lists` | random module, list creation, indexing, list methods (append, remove, pop), list iteration | Using random for programs, manipulating collections with lists, indexing and list methods | Lists are fundamental for storing and processing multiple items; randomness enables games and simulations | Rock Paper Scissors |
 
 ---
 
@@ -32,7 +33,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 003/100
-- 🔄 Current focus: Control Flow and Logical Operators
-- 📈 Next milestone: Randomisation and Lists
+- ✅ Days completed: 004/100
+- 🔄 Current focus: Python Loops
+- 📈 Next milestone: Functions and Modules
 
