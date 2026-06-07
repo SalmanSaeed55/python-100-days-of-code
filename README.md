@@ -21,6 +21,7 @@ practical applications, and the learning value for my Python journey.
 | **002** | `002_Data_Types_and_String_Manipulation` | Data types, type casting, mathematical operators, rounding, f-strings | Working with strings, integers, floats, booleans, converting between types, and formatting output cleanly | Builds the ability to store, convert, and present data accurately in real programs | Tip Calculator |
 | **003** | `003_Control_Flow_and_Logical_Operators` | If statements, boolean logic, comparison operators, logical operators | Controlling program flow with if/elif/else, combining conditions with and/or/not | Enables decision-making in programs; essential for real-world logic and branching | Treasure Island Game |
 | **004** | `004_Randomisation_and_Lists` | random module, list creation, indexing, list methods (append, remove, pop), list iteration | Using random for programs, manipulating collections with lists, indexing and list methods | Lists are fundamental for storing and processing multiple items; randomness enables games and simulations | Rock Paper Scissors |
+| **005** | `005_For_Loops` | For loops, range() function, loop iteration, loop control | Repeating code blocks efficiently with for loops, iterating over sequences and ranges | Loops are critical for processing collections and automating repetitive tasks; essential for any real program | Password Generator |
 
 ---
 
@@ -33,7 +34,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 004/100
+- ✅ Days completed: 005/100
 - 🔄 Current focus: Python Loops
-- 📈 Next milestone: Functions and Modules
+- 📈 Next milestone: Functions and Karel
 
