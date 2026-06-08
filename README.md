@@ -2,9 +2,9 @@
 
 This is a project following Angela Yu's **Python 100 Days of Code** course on Udemy. Each day focuses on a specific topic or concept, allowing learners to build their Python skills progressively. 
 
-The repository is organized by day, with each day's code and exercises stored in separate folders for easy navigation. 
+The repository is organised by day, with each day's code and exercises stored in separate folders for easy navigation. 
 
-**Each day also contains a project** for that day, allowing learners to apply the concepts they've learned in a practical way.
+**Each day also contains a project** for that day, allowing me to apply the concepts they've learned in a practical way.
 
 ---
 
@@ -22,6 +22,7 @@ practical applications, and the learning value for my Python journey.
 | **003** | `003_Control_Flow_and_Logical_Operators` | If statements, boolean logic, comparison operators, logical operators | Controlling program flow with if/elif/else, combining conditions with and/or/not | Enables decision-making in programs; essential for real-world logic and branching | Treasure Island Game |
 | **004** | `004_Randomisation_and_Lists` | random module, list creation, indexing, list methods (append, remove, pop), list iteration | Using random for programs, manipulating collections with lists, indexing and list methods | Lists are fundamental for storing and processing multiple items; randomness enables games and simulations | Rock Paper Scissors |
 | **005** | `005_For_Loops` | For loops, range() function, loop iteration, loop control | Repeating code blocks efficiently with for loops, iterating over sequences and ranges | Loops are critical for processing collections and automating repetitive tasks; essential for any real program | Password Generator |
+| **006** | `006_Functions_and_Loops` | Functions, while loops, input validation, return values | Creating reusable functions, controlling repetition with while loops, and validating user input | Functions make programs modular and reusable, while loops help manage repeated interaction and checks | Movie Rating Tracker |
 
 ---
 
@@ -34,7 +35,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 005/100
-- 🔄 Current focus: Python Loops
-- 📈 Next milestone: Functions and Karel
+- ✅ Days completed: 006/100
+- 🔄 Current focus: Functions and While Loops
+- 📈 Next milestone: Karel and Functions
 
