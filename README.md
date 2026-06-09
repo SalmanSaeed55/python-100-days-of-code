@@ -23,6 +23,7 @@ practical applications, and the learning value for my Python journey.
 | **004** | `004_Randomisation_and_Lists` | random module, list creation, indexing, list methods (append, remove, pop), list iteration | Using random for programs, manipulating collections with lists, indexing and list methods | Lists are fundamental for storing and processing multiple items; randomness enables games and simulations | Rock Paper Scissors |
 | **005** | `005_For_Loops` | For loops, range() function, loop iteration, loop control | Repeating code blocks efficiently with for loops, iterating over sequences and ranges | Loops are critical for processing collections and automating repetitive tasks; essential for any real program | Password Generator |
 | **006** | `006_Functions_and_Loops` | Functions, while loops, input validation, return values | Creating reusable functions, controlling repetition with while loops, and validating user input | Functions make programs modular and reusable, while loops help manage repeated interaction and checks | Movie Rating Tracker |
+| **007** | `007_Hangman` | Consolidation through building a project, list handling, random selection, loops, conditionals | Reinforcing earlier concepts by applying them in a complete game project | Project-based practice helps connect individual concepts into working programs | Hangman |
 
 ---
 
@@ -35,7 +36,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 006/100
-- 🔄 Current focus: Functions and While Loops
-- 📈 Next milestone: Karel and Functions
+- ✅ Days completed: 007/100
+- 🔄 Current focus: Consolidation through building a project
+- 📈 Next milestone: Function Parameters and Ceaser Cipher
 
