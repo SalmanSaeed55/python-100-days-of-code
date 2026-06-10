@@ -24,6 +24,7 @@ practical applications, and the learning value for my Python journey.
 | **005** | `005_For_Loops` | For loops, range() function, loop iteration, loop control | Repeating code blocks efficiently with for loops, iterating over sequences and ranges | Loops are critical for processing collections and automating repetitive tasks; essential for any real program | Password Generator |
 | **006** | `006_Functions_and_Loops` | Functions, while loops, input validation, return values | Creating reusable functions, controlling repetition with while loops, and validating user input | Functions make programs modular and reusable, while loops help manage repeated interaction and checks | Movie Rating Tracker |
 | **007** | `007_Hangman` | Consolidation through building a project, list handling, random selection, loops, conditionals | Reinforcing earlier concepts by applying them in a complete game project | Project-based practice helps connect individual concepts into working programs | Hangman |
+| **008** | `008_Function_Parameters` | Function parameters, keyword arguments, default values, Caesar Cipher algorithm | Understanding how to pass multiple arguments to functions, keyword vs positional arguments, flexible parameter patterns | Functions with well-designed parameters are more flexible and reusable; essential for writing maintainable code | Caesar Cipher |
 
 ---
 
@@ -36,7 +37,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 007/100
-- 🔄 Current focus: Consolidation through building a project
-- 📈 Next milestone: Function Parameters and Ceaser Cipher
+- ✅ Days completed: 008/100
+- 🔄 Current focus: Dictionaries and Nesting
+- 📈 Next milestone: Day 9 - Building projects with nested data structures
 
