@@ -27,6 +27,7 @@ practical applications, and the learning value for my Python journey.
 | **008** | `008_Function_Parameters` | Function parameters, keyword arguments, default values, Caesar Cipher algorithm | Understanding how to pass multiple arguments to functions, keyword vs positional arguments, flexible parameter patterns | Functions with well-designed parameters are more flexible and reusable; essential for writing maintainable code | Caesar Cipher |
 | **009** | `009_Dictionaries_and_Nesting` | Dictionaries, nested data structures, dictionary methods, key-value pairs, nesting dictionaries and lists | Creating and accessing dictionaries, nesting dictionaries within dictionaries and lists, working with complex data structures | Dictionaries enable organizing related data efficiently; nesting allows modeling real-world hierarchical data | Blind Auction Program |
 | **010** | `010_Functions_With_Outputs` | Function outputs, return statements, return values, functions as data, dictionary operations | Using return statements to get values from functions, storing functions in data structures like dictionaries, using functions as values | Functions that return values enable building reusable components; storing functions in dictionaries allows dynamic function selection | Calculator Program |
+| **011** | `011_Blackjack` | Lists, random.choice, game logic, conditionals, I/O | Handling game state, dealer/player rules, edge cases, dealing cards and Ace value handling | Practical capstone: combining prior concepts into an interactive game; focuses on testing and edge-case handling | Blackjack |
 
 ---
 
@@ -39,7 +40,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 010/100
+- ✅ Days completed: 011/100
 - 🔄 Current focus: Blackjack Capstone Project
 - 📈 Next milestone: Building a complete card game with game logic and user interaction
 
