@@ -29,6 +29,7 @@ practical applications, and the learning value for my Python journey.
 | **010** | `010_Functions_With_Outputs` | Function outputs, return statements, return values, functions as data, dictionary operations | Using return statements to get values from functions, storing functions in data structures like dictionaries, using functions as values | Functions that return values enable building reusable components; storing functions in dictionaries allows dynamic function selection | Calculator Program |
 | **011** | `011_Blackjack` | Lists, random.choice, game logic, conditionals, I/O | Handling game state, dealer/player rules, edge cases, dealing cards and Ace value handling | Practical capstone: combining prior concepts into an interactive game; focuses on testing and edge-case handling | Blackjack |
 | **012** | `012_Namescapes` | Variable scope, local vs global variables, functions, game state | Understanding how variables behave inside and outside functions and how to manage state across a project | Scope is essential for writing reliable programs; it keeps data organized and prevents unintended side effects | Number Guessing Game |
+| **013** | `013_Debugging` | Debugging, error handling, off-by-one errors, exception handling | Finding and fixing bugs, tracing logic issues, and preventing crashes with try/except | Debugging is essential for making programs reliable; it helps identify mistakes, handle invalid input, and keep code running smoothly | Digital Wallet Simulator |
 
 ---
 
@@ -41,7 +42,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 012/100
-- 🔄 Current focus: Number Guessing Game / Variable Scope
-- 📈 Next milestone: Strengthening function design and managing state cleanly
+- ✅ Days completed: 013/100
+- 🔄 Current focus: Debugging / Digital Wallet Simulator
+- 📈 Next milestone: Strengthening error handling and writing more robust programs
 
