@@ -30,6 +30,7 @@ practical applications, and the learning value for my Python journey.
 | **011** | `011_Blackjack` | Lists, random.choice, game logic, conditionals, I/O | Handling game state, dealer/player rules, edge cases, dealing cards and Ace value handling | Practical capstone: combining prior concepts into an interactive game; focuses on testing and edge-case handling | Blackjack |
 | **012** | `012_Namescapes` | Variable scope, local vs global variables, functions, game state | Understanding how variables behave inside and outside functions and how to manage state across a project | Scope is essential for writing reliable programs; it keeps data organized and prevents unintended side effects | Number Guessing Game |
 | **013** | `013_Debugging` | Debugging, error handling, off-by-one errors, exception handling | Finding and fixing bugs, tracing logic issues, and preventing crashes with try/except | Debugging is essential for making programs reliable; it helps identify mistakes, handle invalid input, and keep code running smoothly | Digital Wallet Simulator |
+| **014** | `014_Student_Performance_Tracker` | Practice and consolidation, lists of dictionaries, averages, grade calculation | Reinforcing earlier Python concepts by building a simple student tracker and applying grading rules consistently | Consolidation helps lock in what has been learnt and makes the earlier topics easier to use in real projects | Student Performance Tracker |
 
 ---
 
@@ -42,7 +43,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 013/100
-- 🔄 Current focus: Debugging / Digital Wallet Simulator
-- 📈 Next milestone: Strengthening error handling and writing more robust programs
+- ✅ Days completed: 014/100
+- 🔄 Current focus: Practice and consolidation / Student Performance Tracker
+- 📈 Next milestone: Building on core concepts with more confident problem solving
 
