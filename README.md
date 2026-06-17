@@ -31,6 +31,7 @@ practical applications, and the learning value for my Python journey.
 | **012** | `012_Namescapes` | Variable scope, local vs global variables, functions, game state | Understanding how variables behave inside and outside functions and how to manage state across a project | Scope is essential for writing reliable programs; it keeps data organized and prevents unintended side effects | Number Guessing Game |
 | **013** | `013_Debugging` | Debugging, error handling, off-by-one errors, exception handling | Finding and fixing bugs, tracing logic issues, and preventing crashes with try/except | Debugging is essential for making programs reliable; it helps identify mistakes, handle invalid input, and keep code running smoothly | Digital Wallet Simulator |
 | **014** | `014_Student_Performance_Tracker` | Practice and consolidation, lists of dictionaries, averages, grade calculation | Reinforcing earlier Python concepts by building a simple student tracker and applying grading rules consistently | Consolidation helps lock in what has been learnt and makes the earlier topics easier to use in real projects | Student Performance Tracker |
+| **015** | `015_Coffee_Machine_Project` | Functions, dictionaries, while loops, resource checking, payment processing | Building a menu-driven coffee machine simulator that manages stock, handles coin-based payments, and updates available resources | This project ties together control flow, data structures, and reusable functions in a realistic program | Coffee Machine Project |
 
 ---
 
@@ -43,7 +44,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 014/100
-- 🔄 Current focus: Practice and consolidation / Student Performance Tracker
+- ✅ Days completed: 015/100
+- 🔄 Current focus: Functions, dictionaries, and resource management / Coffee Machine Project
 - 📈 Next milestone: Building on core concepts with more confident problem solving
 
