@@ -32,6 +32,7 @@ practical applications, and the learning value for my Python journey.
 | **013** | `013_Debugging` | Debugging, error handling, off-by-one errors, exception handling | Finding and fixing bugs, tracing logic issues, and preventing crashes with try/except | Debugging is essential for making programs reliable; it helps identify mistakes, handle invalid input, and keep code running smoothly | Digital Wallet Simulator |
 | **014** | `014_Student_Performance_Tracker` | Practice and consolidation, lists of dictionaries, averages, grade calculation | Reinforcing earlier Python concepts by building a simple student tracker and applying grading rules consistently | Consolidation helps lock in what has been learnt and makes the earlier topics easier to use in real projects | Student Performance Tracker |
 | **015** | `015_Coffee_Machine_Project` | Functions, dictionaries, while loops, resource checking, payment processing | Building a menu-driven coffee machine simulator that manages stock, handles coin-based payments, and updates available resources | This project ties together control flow, data structures, and reusable functions in a realistic program | Coffee Machine Project |
+| **016** | `016_Intro_to_OOP` | Classes and objects, attributes, methods, instantiation, modular OOP design | Remaking the Coffee Machine project using OOP by separating responsibilities into classes and improving code structure | OOP makes programs easier to scale, test, and maintain by modeling real-world components as reusable objects | OOP Coffee Machine Remake |
 
 ---
 
@@ -44,7 +45,7 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 015/100
-- 🔄 Current focus: Functions, dictionaries, and resource management / Coffee Machine Project
-- 📈 Next milestone: Building on core concepts with more confident problem solving
+- ✅ Days completed: 016/100
+- 🔄 Current focus: Object-oriented programming and class-based project structure
+- 📈 Next milestone: Applying OOP patterns to larger, multi-file Python projects
 
