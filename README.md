@@ -34,6 +34,7 @@ practical applications, and the learning value for my Python journey.
 | **015** | `015_Coffee_Machine_Project` | Functions, dictionaries, while loops, resource checking, payment processing | Building a menu-driven coffee machine simulator that manages stock, handles coin-based payments, and updates available resources | This project ties together control flow, data structures, and reusable functions in a realistic program | Coffee Machine Project |
 | **016** | `016_Intro_to_OOP` | Classes and objects, attributes, methods, instantiation, modular OOP design | Remaking the Coffee Machine project using OOP by separating responsibilities into classes and improving code structure | OOP makes programs easier to scale, test, and maintain by modeling real-world components as reusable objects | OOP Coffee Machine Remake |
 | **017** | `017_Quiz_OOP` | Classes, objects, methods, encapsulation, class interactions | Building a quiz program using OOP: Question and Quiz classes encapsulate questions, scoring, and flow control; objects manage state and behavior | Demonstrates modeling a problem domain with classes, separation of concerns, and reusability; great practice for multi-class projects | Quiz using OOP classes |
+| **018** | `018_Turtle_Graphics_and_Tuples` | Turtle graphics, tuples, random walk, color extraction, nested loops | Exploring the turtle module, using tuples for RGB colour values, and combining randomness with drawing logic | Introduces visual programming and reinforces how tuples work as immutable data structures | Hirst Painting |
 
 ---
 
@@ -46,7 +47,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 017/100
-- 🔄 Current focus: Object-oriented programming and class-based project structure
-- 📈 Next milestone: Applying OOP patterns to larger, multi-file Python projects
-
+- ✅ Days completed: 018/100
+- 🔄 Current focus: Turtle graphics and tuple-based data handling
+- 📈 Next milestone: Building more complex visual programs with Python
