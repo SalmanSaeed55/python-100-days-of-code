@@ -36,6 +36,7 @@ practical applications, and the learning value for my Python journey.
 | **017** | `017_Quiz_OOP` | Classes, objects, methods, encapsulation, class interactions | Building a quiz program using OOP: Question and Quiz classes encapsulate questions, scoring, and flow control; objects manage state and behavior | Demonstrates modeling a problem domain with classes, separation of concerns, and reusability; great practice for multi-class projects | Quiz using OOP classes      |
 | **018** | `018_Turtle_Graphics_and_Tuples` | Turtle graphics, tuples, random walk, color extraction, nested loops | Exploring the turtle module, using tuples for RGB colour values, and combining randomness with drawing logic | Introduces visual programming and reinforces how tuples work as immutable data structures | Hirst Painting              |
 | **019** | `019_Events_and_Instances` | Event-driven programming, instance methods, event binding (onkey, onclick), GUI interaction | Learning how to respond to user events, connecting instance methods to event handlers, and building interactive programs | Enables creation of responsive, interactive applications and ties OOP to user-driven behavior | Turtle Race         |
+| **020** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, initial game setup | Building the Snake game in two parts, starting with the snake class, initial snake segments, and keyboard controls | Reinforces how classes and event handling work together to build interactive games | Snake Game Part 1 |
 
 ---
 
@@ -48,6 +49,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 019/100
-- 🔄 Current focus: Events and instances (event-driven programming)
-- 📈 Next milestone: Building interactive, event-driven programs
+- ✅ Days completed: 020/100
+- 🔄 Current focus: Snake game (part 1)
+- 📈 Next milestone: Snake game (part 2)
