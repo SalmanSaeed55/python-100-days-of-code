@@ -37,6 +37,7 @@ practical applications, and the learning value for my Python journey.
 | **018** | `018_Turtle_Graphics_and_Tuples` | Turtle graphics, tuples, random walk, color extraction, nested loops | Exploring the turtle module, using tuples for RGB colour values, and combining randomness with drawing logic | Introduces visual programming and reinforces how tuples work as immutable data structures | Hirst Painting              |
 | **019** | `019_Events_and_Instances` | Event-driven programming, instance methods, event binding (onkey, onclick), GUI interaction | Learning how to respond to user events, connecting instance methods to event handlers, and building interactive programs | Enables creation of responsive, interactive applications and ties OOP to user-driven behavior | Turtle Race         |
 | **020** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, initial game setup | Building the Snake game in two parts, starting with the snake class, initial snake segments, and keyboard controls | Reinforces how classes and event handling work together to build interactive games | Snake Game Part 1 |
+| **021** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, game loop, collision detection | Completing snake movement, food spawning, scoring, wall and self-collision handling | Finishes interactive game combining OOP and event-driven programming; full playable Snake game | Snake Game (completed) |
 
 ---
 
@@ -49,6 +50,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 020/100
-- 🔄 Current focus: Snake game (part 1)
-- 📈 Next milestone: Snake game (part 2)
+- ✅ Days completed: 021/100
+- ✅ Current focus: Snake game (completed)
+- 📈 Next milestone: Start Day 22
