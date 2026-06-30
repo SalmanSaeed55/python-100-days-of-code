@@ -38,6 +38,7 @@ practical applications, and the learning value for my Python journey.
 | **019** | `019_Events_and_Instances` | Event-driven programming, instance methods, event binding (onkey, onclick), GUI interaction | Learning how to respond to user events, connecting instance methods to event handlers, and building interactive programs | Enables creation of responsive, interactive applications and ties OOP to user-driven behavior | Turtle Race         |
 | **020** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, initial game setup | Building the Snake game in two parts, starting with the snake class, initial snake segments, and keyboard controls | Reinforces how classes and event handling work together to build interactive games | Snake Game Part 1 |
 | **021** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, game loop, collision detection | Completing snake movement, food spawning, scoring, wall and self-collision handling | Finishes interactive game combining OOP and event-driven programming; full playable Snake game | Snake Game (completed) |
+| **022** | `021_Ping_Pong_Game` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking | Building a Pong game with paddles, a moving ball, wall and paddle bounce logic, and score updates | Strengthens OOP and event-driven game design while introducing collision handling and simple game physics | Ping Pong Game |
 
 ---
 
@@ -50,6 +51,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 021/100
-- ✅ Current focus: Snake game (completed)
-- 📈 Next milestone: Start Day 22
+- ✅ Days completed: 022/100
+- ✅ Current focus: Ping Pong game (completed)
+- 📈 Next milestone: Start Day 23
