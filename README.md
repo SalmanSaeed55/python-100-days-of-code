@@ -39,6 +39,8 @@ practical applications, and the learning value for my Python journey.
 | **020** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, initial game setup | Building the Snake game in two parts, starting with the snake class, initial snake segments, and keyboard controls | Reinforces how classes and event handling work together to build interactive games | Snake Game Part 1 |
 | **021** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, game loop, collision detection | Completing snake movement, food spawning, scoring, wall and self-collision handling | Finishes interactive game combining OOP and event-driven programming; full playable Snake game | Snake Game (completed) |
 | **022** | `021_Ping_Pong_Game` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking | Building a Pong game with paddles, a moving ball, wall and paddle bounce logic, and score updates | Strengthens OOP and event-driven game design while introducing collision handling and simple game physics | Ping Pong Game |
+| **023** | `023_Files_and_Directories` | File I/O, reading files, writing files, directory structure, string manipulation, automation | Learning to read and write files, parsing data from text files, using path operations, and automating file generation | File handling is essential for real-world programs; enables data persistence, batch processing, and automation tasks | Mail Merge Generator |
+| **024** | `023_Files_and_Directories` | File I/O, file generation, string templating, batch processing, automation | Extending file handling skills by building an automated letter generator that creates personalized documents from templates | Demonstrates practical automation for real-world tasks like mail merges, batch document creation, and template-based generation | Automated Letter Generator |
 
 ---
 
@@ -51,6 +53,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 022/100
-- ✅ Current focus: Ping Pong game (completed)
-- 📈 Next milestone: Start Day 23
+- ✅ Days completed: 024/100
+- ✅ Current focus: Automated Letter Generator (completed)
+- 📈 Next milestone: Start Day 25
