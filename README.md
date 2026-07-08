@@ -42,6 +42,7 @@ practical applications, and the learning value for my Python journey.
 | **023** | `023_Files_and_Directories` | File I/O, reading files, writing files, directory structure, string manipulation, automation | Learning to read and write files, parsing data from text files, using path operations, and automating file generation | File handling is essential for real-world programs; enables data persistence, batch processing, and automation tasks | Mail Merge Generator        |
 | **024** | `023_Files_and_Directories` | File I/O, file generation, string templating, batch processing, automation | Extending file handling skills by building an automated letter generator that creates personalized documents from templates | Demonstrates practical automation for real-world tasks like mail merges, batch document creation, and template-based generation | Automated Letter Generator  |
 | **025** | `024_CSV_and_Pandas` | CSV handling, pandas DataFrame manipulation, reading/writing CSVs, data cleaning | Handling tabular data with pandas, filtering, aggregations, reshaping | Core for data analysis and preprocessing; essential for real-world data tasks | US State Guessing Games     |
+| **026** | `025_List_Comprehension` | List comprehension, dictionary comprehension, elegant data transformation | Creating lists and dictionaries with concise syntax using comprehensions instead of loops, readable and Pythonic code patterns | List and dictionary comprehensions make code more concise and readable; they're fundamental to writing idiomatic Python | NATO Alphabet Conversion Program |
 
 ---
 
@@ -54,6 +55,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 024/100
-- ✅ Current focus: Automated Letter Generator (completed)
-- 📈 Next milestone: Start Day 25
+- ✅ Days completed: 025/100
+- ✅ Current focus: NATO Alphabet Conversion Program (completed)
+- 📈 Next milestone: Start Day 27
