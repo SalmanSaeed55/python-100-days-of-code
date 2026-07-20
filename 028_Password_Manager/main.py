@@ -1,8 +1,18 @@
 from pathlib import Path
 from tkinter import *
 from tkinter import messagebox
+import random
+
+LETTERS = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+LETTERS_LOWER = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+NUMBERS = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
+SYMBOLS = ["!", "@", "#", "$", "%", "^", "&", "*"]
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
+def generate_password():
+    password = "".join(random.choice(LETTERS + LETTERS_LOWER + NUMBERS + SYMBOLS) for _ in range(12))
+    password_entry.delete(0, END)
+    password_entry.insert(0, password)
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save():
@@ -42,7 +52,7 @@ password_label.grid(row=3, column=0, sticky="w")
 password_entry = Entry(width=30)
 password_entry.grid(row=3, column=1, sticky="e")
 
-generate_button = Button(text="Generate Password")
+generate_button = Button(text="Generate Password", command=generate_password)
 generate_button.grid(row=3, column=2, sticky="w")
 
 add_password = Button(text="Add Password", width=50, command=save)

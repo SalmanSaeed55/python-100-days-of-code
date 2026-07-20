@@ -45,6 +45,7 @@ practical applications, and the learning value for my Python journey.
 | **026** | `025_List_Comprehension` | List comprehension, dictionary comprehension, elegant data transformation | List and dictionary comprehensions make code more concise and readable; they're fundamental to writing idiomatic Python | NATO Alphabet Conversion Program          |
 | **027** | `026_GUIs_with_TKinter` | Tkinter basics, widgets, layout managers, button callbacks, entry input handling | GUIs make programs more interactive and user-friendly; event-driven programming is a key step beyond console apps | Miles to Kilometers Converter GUI Program |
 | **028** | `027_Pomodoro_Timer` | Tkinter canvas, countdown timers, `after()` scheduling, GUI state management | Teaches event-driven timing and state transitions in GUI apps; key for building responsive productivity tools | Pomodoro Timer                            |
+| **029** | `028_Password_Manager` | Password generation, secure storage, file I/O, optional clipboard use | Teaches handling sensitive data, secure random generation, and persistent storage | Password Manager                           |
 
 ---
 
@@ -56,6 +57,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 028/100
-- ✅ Current focus: Pomodoro Timer (completed)
-- 📈 Next milestone: Start Day 29
+- ✅ Days completed: 029/100
+- ✅ Current focus: Password Manager (completed)
+- 📈 Next milestone: Start Day 30
