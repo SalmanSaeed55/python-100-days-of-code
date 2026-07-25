@@ -18,3 +18,11 @@ except ValueError:
     print("Invalid input")
 else:
     print(type(num))
+
+# You can raise unexpected exceptions when needed
+try:
+    num = int(input("Enter a number: "))
+    if num < 0:
+        raise ValueError("Negative number not allowed")
+except ValueError as e:
+    print(e)
