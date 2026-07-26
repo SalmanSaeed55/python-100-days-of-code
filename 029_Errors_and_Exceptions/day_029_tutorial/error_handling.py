@@ -26,3 +26,13 @@ try:
         raise ValueError("Negative number not allowed")
 except ValueError as e:
     print(e)
+
+# finally - after everything is carried out
+try:
+    number = int(input("Enter a number: "))
+except ValueError:
+    print("Invalid input")
+else:
+    print(type(number))
+finally:
+    print(f"Your number is {number}")
