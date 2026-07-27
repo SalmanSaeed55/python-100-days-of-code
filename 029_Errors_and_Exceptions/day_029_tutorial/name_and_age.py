@@ -10,5 +10,10 @@ while True:
         break
     except ValueError:
         print("Please enter a valid whole number for age")
-
-print(f"Hello {name}, you are {age} years old")
+    else:
+        if age < 0:
+            print("Age cannot be negative")
+        else:
+            break
+    finally:
+        print("Age cannot be negative")
