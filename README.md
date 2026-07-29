@@ -38,14 +38,15 @@ practical applications, and the learning value for my Python journey.
 | **019** | `019_Events_and_Instances` | Event-driven programming, instance methods, event binding (onkey, onclick), GUI interaction | Enables creation of responsive, interactive applications and ties OOP to user-driven behavior | Turtle Race                               |
 | **020** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, initial game setup | Reinforces how classes and event handling work together to build interactive games | Snake Game Part 1                         |
 | **021** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, game loop, collision detection | Finishes interactive game combining OOP and event-driven programming; full playable Snake game | Snake Game (completed)                    |
-| **022** | `022_Turtle_Crossy_Road` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking | Strengthens OOP and event-driven game design while introducing collision handling and simple game physics | Ping Pong Game                            |
-| **023** | `023_Files_and_Directories` | File I/O, reading files, writing files, directory structure, string manipulation, automation | File handling is essential for real-world programs; enables data persistence, batch processing, and automation tasks | Mail Merge Generator                      |
-| **024** | `024_CSV_and_Pandas` | CSV handling, pandas DataFrame manipulation, reading/writing CSVs, data cleaning | Core for data analysis and preprocessing; essential for real-world data tasks | US State Guessing Games                   |
-| **025** | `025_List_Comprehension` | List comprehension, dictionary comprehension, elegant data transformation | List and dictionary comprehensions make code more concise and readable; they're fundamental to writing idiomatic Python | NATO Alphabet Conversion Program          |
-| **026** | `026_GUIs_with_TKinter` | Tkinter basics, widgets, layout managers, button callbacks, entry input handling | GUIs make programs more interactive and user-friendly; event-driven programming is a key step beyond console apps | Miles to Kilometers Converter GUI Program |
-| **027** | `027_Pomodoro_Timer` | Tkinter canvas, countdown timers, `after()` scheduling, GUI state management | Teaches event-driven timing and state transitions in GUI apps; key for building responsive productivity tools | Pomodoro Timer                            |
-| **028** | `028_Password_Manager` | Password generation, secure storage, file I/O, optional clipboard use | Teaches handling sensitive data, secure random generation, and persistent storage | Password Manager                           |
-| **029** | `029_Errors_and_Exceptions` | Error handling, exception types, try-except-finally, custom exceptions | Proper error handling makes programs robust and user-friendly; essential for production code | Error Handling Examples                    |
+| **022** | `021_Ping_Pong_Game` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking | Strengthens OOP and event-driven game design while introducing collision handling and simple game physics | Ping Pong Game                            |
+| **023** | `022_Turtle_Crossy_Road` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking | Strengthens OOP and event-driven game design while introducing collision handling and simple game physics | Turtle Crossy Road                        |
+| **024** | `023_Files_and_Directories` | File I/O, reading files, writing files, directory structure, string manipulation, automation | File handling is essential for real-world programs; enables data persistence, batch processing, and automation tasks | Mail Merge Generator                      |
+| **025** | `024_CSV_and_Pandas` | CSV handling, pandas DataFrame manipulation, reading/writing CSVs, data cleaning | Core for data analysis and preprocessing; essential for real-world data tasks | US State Guessing Games                   |
+| **026** | `025_List_Comprehension` | List comprehension, dictionary comprehension, elegant data transformation | List and dictionary comprehensions make code more concise and readable; they're fundamental to writing idiomatic Python | NATO Alphabet Conversion Program          |
+| **027** | `026_GUIs_with_TKinter` | Tkinter basics, widgets, layout managers, button callbacks, entry input handling | GUIs make programs more interactive and user-friendly; event-driven programming is a key step beyond console apps | Miles to Kilometers Converter GUI Program |
+| **028** | `027_Pomodoro_Timer` | Tkinter canvas, countdown timers, `after()` scheduling, GUI state management | Teaches event-driven timing and state transitions in GUI apps; key for building responsive productivity tools | Pomodoro Timer                            |
+| **029** | `028_Password_Manager` | Password generation, secure storage, file I/O, optional clipboard use | Teaches handling sensitive data, secure random generation, and persistent storage | Password Manager                           |
+| **030** | `029_Errors_and_Exceptions` | Error handling, exception types, try-except-finally, custom exceptions | Proper error handling makes programs robust and user-friendly; essential for production code | Uncrashable Calculator                    |
 
 ---
 
@@ -57,6 +58,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 029/100
-- ✅ Current focus: Password Manager (completed)
-- 📈 Next milestone: Start Day 30
+- ✅ Days completed: 030/100
+- ✅ Current focus: Day 30 complete
+- 📈 Next milestone: Start Day 31
