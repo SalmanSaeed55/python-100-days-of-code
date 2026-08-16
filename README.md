@@ -47,6 +47,7 @@ practical applications, and the learning value for my Python journey.
 | **028** | `027_Pomodoro_Timer` | Tkinter canvas, countdown timers, `after()` scheduling, GUI state management | Teaches event-driven timing and state transitions in GUI apps; key for building responsive productivity tools | Pomodoro Timer                            |
 | **029** | `028_Password_Manager` | Password generation, secure storage, file I/O, optional clipboard use | Teaches handling sensitive data, secure random generation, and persistent storage | Password Manager                           |
 | **030** | `029_Errors_and_Exceptions` | Error handling, exception types, try-except-finally, custom exceptions | Proper error handling makes programs robust and user-friendly; essential for production code | Uncrashable Calculator                    |
+| **031** | `030_Flashcard_App` | Tkinter UI design, CSV data handling with pandas, timed card flipping, state tracking | Combines GUI development with data persistence and timed events; strong practice for building interactive learning tools | Flashcard App                             |
 
 ---
 
@@ -58,6 +59,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 030/100
-- ✅ Current focus: Day 30 complete
-- 📈 Next milestone: Start Day 31
+- ✅ Days completed: 031/100
+- ✅ Current focus: Day 31 complete
+- 📈 Next milestone: Start Day 32
