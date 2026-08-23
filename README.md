@@ -49,6 +49,7 @@ practical applications, and the learning value for my Python journey.
 | **030** | `029_Errors_and_Exceptions` | Error handling, exception types, try-except-finally, custom exceptions | Proper error handling makes programs robust and user-friendly; essential for production code | Uncrashable Calculator                    |
 | **031** | `030_Flashcard_App` | Tkinter UI design, CSV data handling with pandas, timed card flipping, state tracking | Combines GUI development with data persistence and timed events; strong practice for building interactive learning tools | Flashcard App                             |
 | **032** | `032_APIs` | HTTP requests, REST APIs, JSON parsing, requests library, error handling, consuming third-party services | Integrating APIs lets apps use live data and services; teaches parsing JSON, handling responses, and error cases | Kanye Quotes App |
+| **033** | `033_GUI_Quiz_App` | Tkinter GUI design, radio buttons, state management, question flow, score tracking | Builds a complete GUI quiz application that combines widgets, user input handling, and program state for a real interactive app | GUI Quiz App |
 
 ---
 
@@ -60,6 +61,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 032/100
-- ✅ Current focus: Day 32 complete
-- 📈 Next milestone: Start Day 33
+- ✅ Days completed: 033/100
+- ✅ Current focus: Day 33 complete
+- 📈 Next milestone: Start Day 34
