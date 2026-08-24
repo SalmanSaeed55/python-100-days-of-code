@@ -1,0 +1,45 @@
+{
+  'coord': {
+    'lon': 0.1278,
+    'lat': 51.5074
+  },
+  'weather': [
+    {
+      'id': 803,
+      'main': 'Clouds',
+      'description': 'broken clouds',
+      'icon': '04d'
+    }
+  ],
+  'base': 'stations',
+  'main': {
+    'temp': 20.77,
+    'feels_like': 20.23,
+    'temp_min': 20.06,
+    'temp_max': 22.12,
+    'pressure': 1016,
+    'humidity': 51,
+    'sea_level': 1016,
+    'grnd_level': 1013
+  },
+  'visibility': 10000,
+  'wind': {
+    'speed': 9.77,
+    'deg': 80
+  },
+  'clouds': {
+    'all': 62
+  },
+  'dt': 1787587880,
+  'sys': {
+    'type': 2,
+    'id': 2011528,
+    'country': 'GB',
+    'sunrise': 1787547552,
+    'sunset': 1787598302
+  },
+  'timezone': 3600,
+  'id': 7302135,
+  'name': 'Abbey Wood',
+  'cod': 200
+}
