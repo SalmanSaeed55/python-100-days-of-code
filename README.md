@@ -48,8 +48,10 @@ practical applications, and the learning value for my Python journey.
 | **029** | `028_Password_Manager` | Password generation, secure storage, file I/O, optional clipboard use | Teaches handling sensitive data, secure random generation, and persistent storage | Password Manager                           |
 | **030** | `029_Errors_and_Exceptions` | Error handling, exception types, try-except-finally, custom exceptions | Proper error handling makes programs robust and user-friendly; essential for production code | Uncrashable Calculator                    |
 | **031** | `030_Flashcard_App` | Tkinter UI design, CSV data handling with pandas, timed card flipping, state tracking | Combines GUI development with data persistence and timed events; strong practice for building interactive learning tools | Flashcard App                             |
-| **032** | `032_APIs` | HTTP requests, REST APIs, JSON parsing, requests library, error handling, consuming third-party services | Integrating APIs lets apps use live data and services; teaches parsing JSON, handling responses, and error cases | Kanye Quotes App |
-| **033** | `033_GUI_Quiz_App` | Tkinter GUI design, radio buttons, state management, question flow, score tracking | Builds a complete GUI quiz application that combines widgets, user input handling, and program state for a real interactive app | GUI Quiz App |
+| **032** | `031_Sending_Emails` | SMTP email sending, automation triggers, date-based logic, environment variables, file handling | Email automation saves time and connects apps to real user communication; it demonstrates practical business logic and automation | Birthday Wisher                          |
+| **033** | `032_APIs` | HTTP requests, REST APIs, JSON parsing, requests library, error handling, consuming third-party services | Integrating APIs lets apps use live data and services; teaches parsing JSON, handling responses, and error cases | Kanye Quotes App                         |
+| **034** | `033_GUI_Quiz_App` | Tkinter GUI design, radio buttons, state management, question flow, score tracking | Builds a complete GUI quiz application that combines widgets, user input handling, and program state for a real interactive app | GUI Quiz App                             |
+| **035** | `034_API_Authentication` | API authentication, secure headers, request tokens, environment variables, protected API usage | Secure API access is essential for protecting data and integrating with private services; it is a core skill in real-world app integrations | Automated Rain Notification             |
 
 ---
 
@@ -61,6 +63,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 033/100
-- ✅ Current focus: Day 33 complete
-- 📈 Next milestone: Start Day 34
+- ✅ Days completed: 035/100
+- ✅ Current focus: Day 35 complete
+- 📈 Next milestone: Start Day 36
