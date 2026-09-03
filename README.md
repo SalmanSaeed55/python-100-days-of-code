@@ -52,6 +52,7 @@ practical applications, and the learning value for my Python journey.
 | **033** | `032_APIs` | HTTP requests, REST APIs, JSON parsing, requests library, error handling, consuming third-party services | Integrating APIs lets apps use live data and services; teaches parsing JSON, handling responses, and error cases | Kanye Quotes App                         |
 | **034** | `033_GUI_Quiz_App` | Tkinter GUI design, radio buttons, state management, question flow, score tracking | Builds a complete GUI quiz application that combines widgets, user input handling, and program state for a real interactive app | GUI Quiz App                             |
 | **035** | `034_API_Authentication` | API authentication, secure headers, request tokens, environment variables, protected API usage | Secure API access is essential for protecting data and integrating with private services; it is a core skill in real-world app integrations | Automated Rain Notification             |
+| **036** | `035_Stock_News` | Stock market API requests, JSON parsing, percentage change calculations, news API integration, alert logic | Combining live market and news data shows how apps can react to changing conditions and surface actionable updates | Stock Change and News Tracker            |
 
 ---
 
@@ -63,6 +64,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 035/100
-- ✅ Current focus: Day 35 complete
-- 📈 Next milestone: Start Day 36
+- ✅ Days completed: 036/100
+- ✅ Current focus: Day 36 complete
+- 📈 Next milestone: Start Day 37

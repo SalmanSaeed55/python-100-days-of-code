@@ -2,10 +2,10 @@ import requests
 import twilio.rest
 
 
-account_id = "ACb1ef4499aa267fc9a54e89fe902f3f79"
-authentication_token = "f55dc232c1bbbde73211d258661464a0"
+account_id = "your account code"
+authentication_token = "your authentication token"
 
-api_key = "5afecd78fa382140cdde8c9da6c70ea7"
+api_key = "your api key"
 api_url = "https://api.openweathermap.org/data/2.5/weather"
 
 weather_params = {
