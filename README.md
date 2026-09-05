@@ -54,6 +54,7 @@ practical applications, and the learning value for my Python journey.
 | **035** | `034_API_Authentication` | API authentication, secure headers, request tokens, environment variables, protected API usage | Secure API access is essential for protecting data and integrating with private services; it is a core skill in real-world app integrations | Automated Rain Notification             |
 | **036** | `035_Stock_News` | Stock market API requests, JSON parsing, percentage change calculations, news API integration, alert logic | Combining live market and news data shows how apps can react to changing conditions and surface actionable updates | Stock Change and News Tracker            |
 | **037** | `036_Habit_Tracking` | requests, datetime, API integration, HTTP POST, headers, authentication tokens, JSON payloads | Demonstrates sending authenticated requests to record daily habits and automate activity tracking with Pixela | Habit Tracker (Steps Tracker)            |
+| **038** | `037_Exercise_Tracking` | requests, datetime, API integration, HTTP POST, headers, JSON payloads, Sheety/Sheety-like APIs | Automates logging workouts by parsing natural-language exercise input and posting workout entries to a sheet via API | Exercise Tracker |
 
 ---
 
@@ -65,6 +66,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 037/100
-- ✅ Current focus: Day 37 complete
-- 📈 Next milestone: Start Day 38
+- ✅ Days completed: 038/100
+- ✅ Current focus: Day 38 complete
+- 📈 Next milestone: Start Day 39
