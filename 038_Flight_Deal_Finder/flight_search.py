@@ -1,28 +1,28 @@
 import requests
 
 SERP_API_KEY = "beebb23e436267dad1354047c6cfa4c0105184305947e1aa65416b7148a220e6"
+SERP_API_ENDPOINT = "https://serpapi.com/search"
 
 
 class FlightSearch:
 
     def __init__(self):
-        self._serp_api_key = SERP_API_KEY
-        self._serp_api_endpoint = "https://serpapi.com/search?engine=google_flights"
+        self._api_key = SERP_API_KEY
 
     def check_flights(self, origin_city_code, destination_city_code, from_time, to_time):
         query = {
             "engine": "google_flights",
             "departure_id": origin_city_code,
             "arrival_id": destination_city_code,
-            "outbound_date": from_time.strftime("%Y-%m-%d"),
-            "return_date": to_time.strftime("%Y-%m-%d"),
+            "outbound_date": from_time,
+            "return_date": to_time,
             "type": "1",
             "adults": "1",
             "currency": "GBP",
-            "api_key": self._serp_api_key,
+            "api_key": self._api_key,
         }
 
-        response = requests.get(url=self._serp_api_endpoint, params=query)
+        response = requests.get(url=SERP_API_ENDPOINT, params=query)
 
         if response.status_code != 200:
             print(f"check_flights() response code: {response.status_code}")
