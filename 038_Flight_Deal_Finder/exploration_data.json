@@ -1,0 +1,751 @@
+{
+  'airports': [
+    {
+      'arrival': [
+        {
+          'airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz International '
+            'Airport'
+          },
+          'city': 'Jeddah',
+          'country': 'Saudi Arabia',
+          'country_code': 'SA',
+          'image': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Nu9bjeeaG71vYFrB2h0dwFSgZuS0J5c4I1v3H4N008uOr_N6V8ggLvH9mAg9pnPPgK4z1bU8ah1tMg',
+          'thumbnail': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYQEsUVZdpac1DqSzwcMx3FVG0C_k9OuuuVLwbOHuffeYt7fTf7DeMOtBMWiNeNkCJV4a4E49DmIzMMMk_Fa07FrE6lAOmrxcvDNhgoaQ'
+        }
+      ],
+      'departure': [
+        {
+          'airport': {
+            'id': 'MAN',
+            'name': 'Manchester Airport'
+          },
+          'city': 'Manchester',
+          'country': 'United Kingdom',
+          'country_code': 'GB',
+          'image': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTNUewWaPkLx7U-O4QLkOffkKe-vWjkPMFEowfMNAam9aJq5A78vp54NH8-Dwv8UcK-KJgvBgQf3aeKA',
+          'thumbnail': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYI78ftzh_cqqBG1wANTxyA6EVwiaKoPgvx8hE-VaF6lS8uXN_eCq0APuFsRFtejaYshXoPMA_BqWvSPOjkxgh1gXGBgmWyOJKFAwHb_4'
+        }
+      ]
+    },
+    {
+      'arrival': [
+        {
+          'airport': {
+            'id': 'MAN',
+            'name': 'Manchester Airport'
+          },
+          'city': 'Manchester',
+          'country': 'United Kingdom',
+          'country_code': 'GB',
+          'image': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTNUewWaPkLx7U-O4QLkOffkKe-vWjkPMFEowfMNAam9aJq5A78vp54NH8-Dwv8UcK-KJgvBgQf3aeKA',
+          'thumbnail': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYI78ftzh_cqqBG1wANTxyA6EVwiaKoPgvx8hE-VaF6lS8uXN_eCq0APuFsRFtejaYshXoPMA_BqWvSPOjkxgh1gXGBgmWyOJKFAwHb_4'
+        }
+      ],
+      'departure': [
+        {
+          'airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International Airport'
+          },
+          'city': 'Jeddah',
+          'country': 'Saudi Arabia',
+          'country_code': 'SA',
+          'image': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Nu9bjeeaG71vYFrB2h0dwFSgZuS0J5c4I1v3H4N008uOr_N6V8ggLvH9mAg9pnPPgK4z1bU8ah1tMg',
+          'thumbnail': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYQEsUVZdpac1DqSzwcMx3FVG0C_k9OuuuVLwbOHuffeYt7fTf7DeMOtBMWiNeNkCJV4a4E49DmIzMMMk_Fa07FrE6lAOmrxcvDNhgoaQ'
+        }
+      ]
+    }
+  ],
+  'best_flights': [
+    {
+      'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/PC.png',
+      'carbon_emissions': {
+        'difference_percent': -9,
+        'this_flight': 375000,
+        'typical_for_this_route': 411000
+      },
+      'departure_token': 'WyJDalJJTVdsM1IwMTFiVlJKTUhOQlVqSjBlVUZDUnkwdExTMHRMUzB0TFMxdmEyaHNORUZCUVVGQlIzRmxjbFJCUldaalRHVkJFZ3hRUXpFeE9ESjhVRU0yT1RnYUN3aXg5d01RQWhvRFIwSlFPQnh3cnFnRiIsW1siTUFOIiwiMjAyNi0wOS0wOCIsIlNBVyIsbnVsbCwiUEMiLCIxMTgyIl0sWyJTQVciLCIyMDI2LTA5LTA5IiwiSkVEIixudWxsLCJQQyIsIjY5OCJdXV0=',
+      'flights': [
+        {
+          'airline': 'Pegasus',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/PC.png',
+          'airplane': 'Airbus A321',
+          'arrival_airport': {
+            'id': 'SAW',
+            'name': 'Sabiha Gökçen '
+            'International '
+            'Airport',
+            'time': '2026-09-08 20:00'
+          },
+          'departure_airport': {
+            'id': 'MAN',
+            'name': 'Manchester '
+            'Airport',
+            'time': '2026-09-08 '
+            '13:55'
+          },
+          'duration': 245,
+          'extensions': [
+            'Below average legroom (28 in)',
+            'Stream media to your device',
+            'Carbon emissions estimate: 198 '
+            'kg'
+          ],
+          'flight_number': 'PC 1182',
+          'legroom': '28 in',
+          'travel_class': 'Economy'
+        },
+        {
+          'airline': 'Pegasus',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/PC.png',
+          'airplane': 'Airbus A321',
+          'arrival_airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International '
+            'Airport',
+            'time': '2026-09-09 04:05'
+          },
+          'departure_airport': {
+            'id': 'SAW',
+            'name': 'Sabiha Gökçen '
+            'International '
+            'Airport',
+            'time': '2026-09-09 '
+            '00:20'
+          },
+          'duration': 225,
+          'extensions': [
+            'Below average legroom (28 in)',
+            'Stream media to your device',
+            'Carbon emissions estimate: 176 '
+            'kg'
+          ],
+          'flight_number': 'PC 698',
+          'legroom': '28 in',
+          'overnight': True,
+          'travel_class': 'Economy'
+        }
+      ],
+      'layovers': [
+        {
+          'duration': 260,
+          'id': 'SAW',
+          'name': 'Sabiha Gökçen International '
+          'Airport'
+        }
+      ],
+      'price': 645,
+      'total_duration': 730,
+      'type': 'Round trip'
+    },
+    {
+      'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/SV.png',
+      'carbon_emissions': {
+        'difference_percent': -33,
+        'this_flight': 274000,
+        'typical_for_this_route': 411000
+      },
+      'departure_token': 'WyJDalJJTVdsM1IwMTFiVlJKTUhOQlVqSjBlVUZDUnkwdExTMHRMUzB0TFMxdmEyaHNORUZCUVVGQlIzRmxjbFJCUldaalRHVkJFZ1ZUVmpFeU5Cb0xDUHF1QkJBQ0dnTkhRbEE0SEhDODh3VT0iLFtbIk1BTiIsIjIwMjYtMDktMDgiLCJKRUQiLG51bGwsIlNWIiwiMTI0Il1dXQ==',
+      'flights': [
+        {
+          'airline': 'Saudia',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/SV.png',
+          'airplane': 'Boeing 787',
+          'arrival_airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International '
+            'Airport',
+            'time': '2026-09-08 23:15'
+          },
+          'departure_airport': {
+            'id': 'MAN',
+            'name': 'Manchester '
+            'Airport',
+            'time': '2026-09-08 '
+            '14:45'
+          },
+          'duration': 390,
+          'extensions': [
+            'Above average legroom (32 in)',
+            'In-seat power & USB outlets',
+            'On-demand video',
+            'Carbon emissions estimate: 274 '
+            'kg'
+          ],
+          'flight_number': 'SV 124',
+          'legroom': '32 in',
+          'often_delayed_by_over_30_min': True,
+          'ticket_also_sold_by': [
+            'Virgin Atlantic'
+          ],
+          'travel_class': 'Economy'
+        }
+      ],
+      'price': 716,
+      'total_duration': 390,
+      'type': 'Round trip'
+    },
+    {
+      'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/EY.png',
+      'carbon_emissions': {
+        'difference_percent': 19,
+        'this_flight': 490000,
+        'typical_for_this_route': 411000
+      },
+      'departure_token': 'WyJDalJJTVdsM1IwMTFiVlJKTUhOQlVqSjBlVUZDUnkwdExTMHRMUzB0TFMxdmEyaHNORUZCUVVGQlIzRmxjbFJCUldaalRHVkJFZ3BGV1RjMmZFVlpOakUxR2dzSW1iRUVFQUlhQTBkQ1VEZ2NjTUQyQlE9PSIsW1siTUFOIiwiMjAyNi0wOS0wOCIsIkFVSCIsbnVsbCwiRVkiLCI3NiJdLFsiQVVIIiwiMjAyNi0wOS0wOSIsIkpFRCIsbnVsbCwiRVkiLCI2MTUiXV1d',
+      'flights': [
+        {
+          'airline': 'Etihad',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/EY.png',
+          'airplane': 'Boeing 787',
+          'arrival_airport': {
+            'id': 'AUH',
+            'name': 'Zayed '
+            'International '
+            'Airport',
+            'time': '2026-09-09 07:10'
+          },
+          'departure_airport': {
+            'id': 'MAN',
+            'name': 'Manchester '
+            'Airport',
+            'time': '2026-09-08 '
+            '20:10'
+          },
+          'duration': 480,
+          'extensions': [
+            'Average legroom (31 in)',
+            'Wi-Fi for a fee',
+            'In-seat power & USB outlets',
+            'On-demand video',
+            'Carbon emissions estimate: 326 '
+            'kg'
+          ],
+          'flight_number': 'EY 76',
+          'legroom': '31 in',
+          'overnight': True,
+          'travel_class': 'Economy'
+        },
+        {
+          'airline': 'Etihad',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/EY.png',
+          'airplane': 'Airbus A321',
+          'arrival_airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International '
+            'Airport',
+            'time': '2026-09-09 11:30'
+          },
+          'departure_airport': {
+            'id': 'AUH',
+            'name': 'Zayed '
+            'International '
+            'Airport',
+            'time': '2026-09-09 '
+            '09:35'
+          },
+          'duration': 175,
+          'extensions': [
+            'Average legroom (30 in)',
+            'Wi-Fi for a fee',
+            'In-seat USB outlet',
+            'Stream media to your device',
+            'Carbon emissions estimate: 163 '
+            'kg'
+          ],
+          'flight_number': 'EY 615',
+          'legroom': '30 in',
+          'travel_class': 'Economy'
+        }
+      ],
+      'layovers': [
+        {
+          'duration': 145,
+          'id': 'AUH',
+          'name': 'Zayed International Airport'
+        }
+      ],
+      'price': 719,
+      'total_duration': 800,
+      'type': 'Round trip'
+    },
+    {
+      'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/TK.png',
+      'carbon_emissions': {
+        'difference_percent': -4,
+        'this_flight': 394000,
+        'typical_for_this_route': 411000
+      },
+      'departure_token': 'WyJDalJJTVdsM1IwMTFiVlJKTUhOQlVqSjBlVUZDUnkwdExTMHRMUzB0TFMxdmEyaHNORUZCUVVGQlIzRmxjbFJCUldaalRHVkJFZ3RVU3pFNU9UWjhWRXM1TmhvTENLR1pCUkFDR2dOSFFsQTRISENUZ3djPSIsW1siTUFOIiwiMjAyNi0wOS0wOCIsIklTVCIsbnVsbCwiVEsiLCIxOTk2Il0sWyJJU1QiLCIyMDI2LTA5LTA5IiwiSkVEIixudWxsLCJUSyIsIjk2Il1dXQ==',
+      'flights': [
+        {
+          'airline': 'Turkish Airlines',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/TK.png',
+          'airplane': 'Airbus A321neo',
+          'arrival_airport': {
+            'id': 'IST',
+            'name': 'Istanbul Airport',
+            'time': '2026-09-08 23:40'
+          },
+          'departure_airport': {
+            'id': 'MAN',
+            'name': 'Manchester '
+            'Airport',
+            'time': '2026-09-08 '
+            '17:35'
+          },
+          'duration': 245,
+          'extensions': [
+            'Average legroom (30 in)',
+            'Wi-Fi for a fee',
+            'In-seat USB outlet',
+            'On-demand video',
+            'Carbon emissions estimate: 199 '
+            'kg'
+          ],
+          'flight_number': 'TK 1996',
+          'legroom': '30 in',
+          'travel_class': 'Economy'
+        },
+        {
+          'airline': 'Turkish Airlines',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/TK.png',
+          'airplane': 'Airbus A321neo',
+          'arrival_airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International '
+            'Airport',
+            'time': '2026-09-09 05:05'
+          },
+          'departure_airport': {
+            'id': 'IST',
+            'name': 'Istanbul '
+            'Airport',
+            'time': '2026-09-09 '
+            '01:15'
+          },
+          'duration': 230,
+          'extensions': [
+            'Average legroom (30 in)',
+            'Wi-Fi for a fee',
+            'In-seat USB outlet',
+            'On-demand video',
+            'Carbon emissions estimate: 194 '
+            'kg'
+          ],
+          'flight_number': 'TK 96',
+          'legroom': '30 in',
+          'overnight': True,
+          'travel_class': 'Economy'
+        }
+      ],
+      'layovers': [
+        {
+          'duration': 95,
+          'id': 'IST',
+          'name': 'Istanbul Airport'
+        }
+      ],
+      'price': 852,
+      'total_duration': 570,
+      'type': 'Round trip'
+    }
+  ],
+  'other_flights': [
+    {
+      'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/TK.png',
+      'carbon_emissions': {
+        'difference_percent': -4,
+        'this_flight': 394000,
+        'typical_for_this_route': 411000
+      },
+      'departure_token': 'WyJDalJJTVdsM1IwMTFiVlJKTUhOQlVqSjBlVUZDUnkwdExTMHRMUzB0TFMxdmEyaHNORUZCUVVGQlIzRmxjbFJCUldaalRHVkJFZ3RVU3pFNU1UWjhWRXM1TWhvTENLMlZCUkFDR2dOSFFsQTRISER2L1FZPSIsW1siTUFOIiwiMjAyNi0wOS0wOCIsIklTVCIsbnVsbCwiVEsiLCIxOTE2Il0sWyJJU1QiLCIyMDI2LTA5LTA5IiwiSkVEIixudWxsLCJUSyIsIjkyIl1dXQ==',
+      'flights': [
+        {
+          'airline': 'Turkish Airlines',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/TK.png',
+          'airplane': 'Airbus A321neo',
+          'arrival_airport': {
+            'id': 'IST',
+            'name': 'Istanbul Airport',
+            'time': '2026-09-09 '
+            '04:55'
+          },
+          'departure_airport': {
+            'id': 'MAN',
+            'name': 'Manchester '
+            'Airport',
+            'time': '2026-09-08 '
+            '22:55'
+          },
+          'duration': 240,
+          'extensions': [
+            'Average legroom (30 in)',
+            'Wi-Fi for a fee',
+            'In-seat USB outlet',
+            'On-demand video',
+            'Carbon emissions estimate: '
+            '199 kg'
+          ],
+          'flight_number': 'TK 1916',
+          'legroom': '30 in',
+          'overnight': True,
+          'travel_class': 'Economy'
+        },
+        {
+          'airline': 'Turkish Airlines',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/TK.png',
+          'airplane': 'Airbus A321neo',
+          'arrival_airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International '
+            'Airport',
+            'time': '2026-09-09 '
+            '15:55'
+          },
+          'departure_airport': {
+            'id': 'IST',
+            'name': 'Istanbul '
+            'Airport',
+            'time': '2026-09-09 '
+            '12:05'
+          },
+          'duration': 230,
+          'extensions': [
+            'Average legroom (30 in)',
+            'Wi-Fi for a fee',
+            'In-seat USB outlet',
+            'On-demand video',
+            'Carbon emissions estimate: '
+            '194 kg'
+          ],
+          'flight_number': 'TK 92',
+          'legroom': '30 in',
+          'travel_class': 'Economy'
+        }
+      ],
+      'layovers': [
+        {
+          'duration': 430,
+          'id': 'IST',
+          'name': 'Istanbul Airport'
+        }
+      ],
+      'price': 847,
+      'total_duration': 900,
+      'type': 'Round trip'
+    },
+    {
+      'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+      'carbon_emissions': {
+        'difference_percent': 27,
+        'this_flight': 524000,
+        'typical_for_this_route': 411000
+      },
+      'departure_token': 'WyJDalJJTVdsM1IwMTFiVlJKTUhOQlVqSjBlVUZDUnkwdExTMHRMUzB0TFMxdmEyaHNORUZCUVVGQlIzRmxjbFJCUldaalRHVkJFZ3RSVWpJeWZGRlNNVEU0T0JvTENMMnBCaEFDR2dOSFFsQTRISENKeGdnPSIsW1siTUFOIiwiMjAyNi0wOS0wOCIsIkRPSCIsbnVsbCwiUVIiLCIyMiJdLFsiRE9IIiwiMjAyNi0wOS0wOCIsIkpFRCIsbnVsbCwiUVIiLCIxMTg4Il1dXQ==',
+      'flights': [
+        {
+          'airline': 'Qatar Airways',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+          'airplane': 'Boeing 777',
+          'arrival_airport': {
+            'id': 'DOH',
+            'name': 'Hamad '
+            'International '
+            'Airport',
+            'time': '2026-09-08 '
+            '17:10'
+          },
+          'departure_airport': {
+            'id': 'MAN',
+            'name': 'Manchester '
+            'Airport',
+            'time': '2026-09-08 '
+            '08:20'
+          },
+          'duration': 410,
+          'extensions': [
+            'Average legroom (31 in)',
+            'Free Wi-Fi',
+            'In-seat power & USB outlets',
+            'On-demand video',
+            'Carbon emissions estimate: '
+            '405 kg'
+          ],
+          'flight_number': 'QR 22',
+          'legroom': '31 in',
+          'often_delayed_by_over_30_min': True,
+          'ticket_also_sold_by': [
+            'British Airways'
+          ],
+          'travel_class': 'Economy'
+        },
+        {
+          'airline': 'Qatar Airways',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+          'airplane': 'Boeing 777',
+          'arrival_airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International '
+            'Airport',
+            'time': '2026-09-08 '
+            '21:05'
+          },
+          'departure_airport': {
+            'id': 'DOH',
+            'name': 'Hamad '
+            'International '
+            'Airport',
+            'time': '2026-09-08 '
+            '18:35'
+          },
+          'duration': 150,
+          'extensions': [
+            'Average legroom (31 in)',
+            'Free Wi-Fi',
+            'In-seat power & USB outlets',
+            'On-demand video',
+            'Carbon emissions estimate: '
+            '118 kg'
+          ],
+          'flight_number': 'QR 1188',
+          'legroom': '31 in',
+          'ticket_also_sold_by': [
+            'British Airways'
+          ],
+          'travel_class': 'Economy'
+        }
+      ],
+      'layovers': [
+        {
+          'duration': 85,
+          'id': 'DOH',
+          'name': 'Hamad International Airport'
+        }
+      ],
+      'price': 1037,
+      'total_duration': 645,
+      'type': 'Round trip'
+    },
+    {
+      'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+      'carbon_emissions': {
+        'difference_percent': 11,
+        'this_flight': 456000,
+        'typical_for_this_route': 411000
+      },
+      'departure_token': 'WyJDalJJTVdsM1IwMTFiVlJKTUhOQlVqSjBlVUZDUnkwdExTMHRMUzB0TFMxdmEyaHNORUZCUVVGQlIzRmxjbFJCUldaalRHVkJFZ3RSVWpJNGZGRlNNVEU0TkJvTENMMnBCaEFDR2dOSFFsQTRISENKeGdnPSIsW1siTUFOIiwiMjAyNi0wOS0wOCIsIkRPSCIsbnVsbCwiUVIiLCIyOCJdLFsiRE9IIiwiMjAyNi0wOS0wOSIsIkpFRCIsbnVsbCwiUVIiLCIxMTg0Il1dXQ==',
+      'flights': [
+        {
+          'airline': 'Qatar Airways',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+          'airplane': 'Airbus A350',
+          'arrival_airport': {
+            'id': 'DOH',
+            'name': 'Hamad '
+            'International '
+            'Airport',
+            'time': '2026-09-08 '
+            '23:59'
+          },
+          'departure_airport': {
+            'id': 'MAN',
+            'name': 'Manchester '
+            'Airport',
+            'time': '2026-09-08 '
+            '15:10'
+          },
+          'duration': 409,
+          'extensions': [
+            'Average legroom (31 in)',
+            'Free Wi-Fi',
+            'In-seat power & USB outlets',
+            'On-demand video',
+            'Carbon emissions estimate: '
+            '340 kg'
+          ],
+          'flight_number': 'QR 28',
+          'legroom': '31 in',
+          'often_delayed_by_over_30_min': True,
+          'ticket_also_sold_by': [
+            'British Airways'
+          ],
+          'travel_class': 'Economy'
+        },
+        {
+          'airline': 'Qatar Airways',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+          'airplane': 'Boeing 777',
+          'arrival_airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International '
+            'Airport',
+            'time': '2026-09-09 '
+            '03:20'
+          },
+          'departure_airport': {
+            'id': 'DOH',
+            'name': 'Hamad '
+            'International '
+            'Airport',
+            'time': '2026-09-09 '
+            '00:50'
+          },
+          'duration': 150,
+          'extensions': [
+            'Average legroom (31 in)',
+            'Free Wi-Fi',
+            'In-seat power & USB outlets',
+            'On-demand video',
+            'Carbon emissions estimate: '
+            '115 kg'
+          ],
+          'flight_number': 'QR 1184',
+          'legroom': '31 in',
+          'overnight': True,
+          'ticket_also_sold_by': [
+            'British Airways'
+          ],
+          'travel_class': 'Economy'
+        }
+      ],
+      'layovers': [
+        {
+          'duration': 51,
+          'id': 'DOH',
+          'name': 'Hamad International Airport'
+        }
+      ],
+      'price': 1037,
+      'total_duration': 610,
+      'type': 'Round trip'
+    },
+    {
+      'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+      'carbon_emissions': {
+        'difference_percent': 1,
+        'this_flight': 415000,
+        'typical_for_this_route': 411000
+      },
+      'departure_token': 'WyJDalJJTVdsM1IwMTFiVlJKTUhOQlVqSjBlVUZDUnkwdExTMHRMUzB0TFMxdmEyaHNORUZCUVVGQlIzRmxjbFJCUldaalRHVkJFZ3RSVWpJMGZGRlNNVEU1TUJvTENMMnBCaEFDR2dOSFFsQTRISENKeGdnPSIsW1siTUFOIiwiMjAyNi0wOS0wOCIsIkRPSCIsbnVsbCwiUVIiLCIyNCJdLFsiRE9IIiwiMjAyNi0wOS0wOSIsIkpFRCIsbnVsbCwiUVIiLCIxMTkwIl1dXQ==',
+      'flights': [
+        {
+          'airline': 'Qatar Airways',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+          'airplane': 'Boeing 787',
+          'arrival_airport': {
+            'id': 'DOH',
+            'name': 'Hamad '
+            'International '
+            'Airport',
+            'time': '2026-09-09 '
+            '06:45'
+          },
+          'departure_airport': {
+            'id': 'MAN',
+            'name': 'Manchester '
+            'Airport',
+            'time': '2026-09-08 '
+            '22:00'
+          },
+          'duration': 405,
+          'extensions': [
+            'Average legroom (31 in)',
+            'Wi-Fi for a fee',
+            'In-seat power & USB outlets',
+            'On-demand video',
+            'Carbon emissions estimate: '
+            '299 kg'
+          ],
+          'flight_number': 'QR 24',
+          'legroom': '31 in',
+          'overnight': True,
+          'ticket_also_sold_by': [
+            'British Airways'
+          ],
+          'travel_class': 'Economy'
+        },
+        {
+          'airline': 'Qatar Airways',
+          'airline_logo': 'https://www.gstatic.com/flights/airline_logos/70px/QR.png',
+          'airplane': 'Boeing 777',
+          'arrival_airport': {
+            'id': 'JED',
+            'name': 'King Abdulaziz '
+            'International '
+            'Airport',
+            'time': '2026-09-09 '
+            '10:10'
+          },
+          'departure_airport': {
+            'id': 'DOH',
+            'name': 'Hamad '
+            'International '
+            'Airport',
+            'time': '2026-09-09 '
+            '07:40'
+          },
+          'duration': 150,
+          'extensions': [
+            'Average legroom (31 in)',
+            'Free Wi-Fi',
+            'In-seat power & USB outlets',
+            'On-demand video',
+            'Carbon emissions estimate: '
+            '115 kg'
+          ],
+          'flight_number': 'QR 1190',
+          'legroom': '31 in',
+          'ticket_also_sold_by': [
+            'British Airways'
+          ],
+          'travel_class': 'Economy'
+        }
+      ],
+      'layovers': [
+        {
+          'duration': 55,
+          'id': 'DOH',
+          'name': 'Hamad International Airport'
+        }
+      ],
+      'price': 1037,
+      'total_duration': 610,
+      'type': 'Round trip'
+    }
+  ],
+  'search_metadata': {
+    'created_at': '2026-09-07 12:25:19 UTC',
+    'google_flights_url': 'https://www.google.com/travel/flights?hl=en&gl=us&curr=GBP&tfs=CBwQAhoeEgoyMDI2LTA5LTA4agcIARIDTUFOcgcIARIDSkVEGh4SCjIwMjctMDMtMDZqBwgBEgNKRURyBwgBEgNNQU5AAUgBcAGYAQE&tfu=EgIIAQ',
+    'id': '6a9ead2ff7ae8de64d285704',
+    'json_endpoint': 'https://serpapi.com/searches/gKc0w8EYode06ezb6CQAGqv973OB-KunoNecHOk_SyM/6a9ead2ff7ae8de64d285704.json',
+    'markdown_endpoint': 'https://serpapi.com/searches/gKc0w8EYode06ezb6CQAGqv973OB-KunoNecHOk_SyM/6a9ead2ff7ae8de64d285704.md',
+    'prettify_html_file': 'https://serpapi.com/searches/gKc0w8EYode06ezb6CQAGqv973OB-KunoNecHOk_SyM/6a9ead2ff7ae8de64d285704.prettify',
+    'processed_at': '2026-09-07 12:25:19 UTC',
+    'raw_html_file': 'https://serpapi.com/searches/gKc0w8EYode06ezb6CQAGqv973OB-KunoNecHOk_SyM/6a9ead2ff7ae8de64d285704.html',
+    'status': 'Success',
+    'total_time_taken': 6.37
+  },
+  'search_parameters': {
+    'adults': 1,
+    'arrival_id': 'JED',
+    'currency': 'GBP',
+    'departure_id': 'MAN',
+    'engine': 'google_flights',
+    'gl': 'us',
+    'hl': 'en',
+    'outbound_date': '2026-09-08',
+    'return_date': '2027-03-06',
+    'type': '1'
+  }
+}
