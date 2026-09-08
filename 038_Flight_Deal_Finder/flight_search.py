@@ -1,6 +1,6 @@
 import requests
 
-SERP_API_KEY = "beebb23e436267dad1354047c6cfa4c0105184305947e1aa65416b7148a220e6"
+SERP_API_KEY = "Your API Key"
 SERP_API_ENDPOINT = "https://serpapi.com/search"
 
 
