@@ -15,46 +15,49 @@ practical applications, and the learning value for my Python journey.
 
 ### Entry Format
 
-| Day | Folder | Topics Covered | Why It Matters | Project                                   |
-|-----|--------|----------------|----------------|-------------------------------------------|
-| **001** | `001_Prints_Variables_and_Inputs` | String printing, variable declaration, user input handling | Foundational skills for all Python programs; essential for creating interactive applications | Band Name Generator                       |
-| **002** | `002_Data_Types_and_Strings` | Data types, type casting, mathematical operators, rounding, f-strings | Builds the ability to store, convert, and present data accurately in real programs | Tip Calculator                            |
-| **003** | `003_Control_Flow_and_Operators` | If statements, boolean logic, comparison operators, logical operators | Enables decision-making in programs; essential for real-world logic and branching | Treasure Island Game                      |
-| **004** | `004_Randomisation_and_Lists` | random module, list creation, indexing, list methods (append, remove, pop), list iteration | Lists are fundamental for storing and processing multiple items; randomness enables games and simulations | Rock Paper Scissors                       |
-| **005** | `005_For_Loops` | For loops, range() function, loop iteration, loop control | Loops are critical for processing collections and automating repetitive tasks; essential for any real program | Password Generator                        |
-| **006** | `006_Functions_and_Loops` | Functions, while loops, input validation, return values | Functions make programs modular and reusable, while loops help manage repeated interaction and checks | Movie Rating Tracker                      |
-| **007** | `007_Hangman` | Consolidation through building a project, list handling, random selection, loops, conditionals | Project-based practice helps connect individual concepts into working programs | Hangman                                   |
-| **008** | `008_Function_Parameters` | Function parameters, keyword arguments, default values, Caesar Cipher algorithm | Functions with well-designed parameters are more flexible and reusable; essential for writing maintainable code | Caesar Cipher                             |
-| **009** | `009_Dictionaries_and_Nesting` | Dictionaries, nested data structures, dictionary methods, key-value pairs, nesting dictionaries and lists | Dictionaries enable organizing related data efficiently; nesting allows modeling real-world hierarchical data | Blind Auction Program                     |
-| **010** | `010_Functions_With_Outputs` | Function outputs, return statements, return values, functions as data, dictionary operations | Functions that return values enable building reusable components; storing functions in dictionaries allows dynamic function selection | Calculator Program                        |
-| **011** | `011_Blackjack` | Lists, random.choice, game logic, conditionals, I/O | Practical capstone: combining prior concepts into an interactive game; focuses on testing and edge-case handling | Blackjack                                 |
-| **012** | `012_Namescapes` | Variable scope, local vs global variables, functions, game state | Scope is essential for writing reliable programs; it keeps data organized and prevents unintended side effects | Number Guessing Game                      |
-| **013** | `013_Debugging` | Debugging, error handling, off-by-one errors, exception handling | Debugging is essential for making programs reliable; it helps identify mistakes, handle invalid input, and keep code running smoothly | Digital Wallet Simulator                  |
-| **014** | `014_Student_Performance_Tracker` | Practice and consolidation, lists of dictionaries, averages, grade calculation | Consolidation helps lock in what has been learnt and makes the earlier topics easier to use in real projects | Student Performance Tracker               |
-| **015** | `015_Coffee_Machine_Project` | Functions, dictionaries, while loops, resource checking, payment processing | This project ties together control flow, data structures, and reusable functions in a realistic program | Coffee Machine Project                    |
-| **016** | `016_Intro_to_OOP` | Classes and objects, attributes, methods, instantiation, modular OOP design | OOP makes programs easier to scale, test, and maintain by modeling real-world components as reusable objects | OOP Coffee Machine Remake                 |
-| **017** | `017_More_OOP` | Classes, objects, methods, encapsulation, class interactions | Demonstrates modeling a problem domain with classes, separation of concerns, and reusability; great practice for multi-class projects | Quiz using OOP classes                    |
-| **018** | `018_Turtle_and_Tuples` | Turtle graphics, tuples, random walk, color extraction, nested loops | Introduces visual programming and reinforces how tuples work as immutable data structures | Hirst Painting                            |
-| **019** | `019_Events_and_Instances` | Event-driven programming, instance methods, event binding (onkey, onclick), GUI interaction | Enables creation of responsive, interactive applications and ties OOP to user-driven behavior | Turtle Race                               |
-| **020** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, initial game setup | Reinforces how classes and event handling work together to build interactive games | Snake Game Part 1                         |
-| **021** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, game loop, collision detection | Finishes interactive game combining OOP and event-driven programming; full playable Snake game | Snake Game (completed)                    |
-| **022** | `021_Ping_Pong_Game` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking | Strengthens OOP and event-driven game design while introducing collision handling and simple game physics | Ping Pong Game                            |
-| **023** | `022_Turtle_Crossy_Road` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking | Strengthens OOP and event-driven game design while introducing collision handling and simple game physics | Turtle Crossy Road                        |
-| **024** | `023_Files_and_Directories` | File I/O, reading files, writing files, directory structure, string manipulation, automation | File handling is essential for real-world programs; enables data persistence, batch processing, and automation tasks | Mail Merge Generator                      |
-| **025** | `024_CSV_and_Pandas` | CSV handling, pandas DataFrame manipulation, reading/writing CSVs, data cleaning | Core for data analysis and preprocessing; essential for real-world data tasks | US State Guessing Games                   |
-| **026** | `025_List_Comprehension` | List comprehension, dictionary comprehension, elegant data transformation | List and dictionary comprehensions make code more concise and readable; they're fundamental to writing idiomatic Python | NATO Alphabet Conversion Program          |
-| **027** | `026_GUIs_with_TKinter` | Tkinter basics, widgets, layout managers, button callbacks, entry input handling | GUIs make programs more interactive and user-friendly; event-driven programming is a key step beyond console apps | Miles to Kilometers Converter GUI Program |
-| **028** | `027_Pomodoro_Timer` | Tkinter canvas, countdown timers, `after()` scheduling, GUI state management | Teaches event-driven timing and state transitions in GUI apps; key for building responsive productivity tools | Pomodoro Timer                            |
-| **029** | `028_Password_Manager` | Password generation, secure storage, file I/O, optional clipboard use | Teaches handling sensitive data, secure random generation, and persistent storage | Password Manager                           |
-| **030** | `029_Errors_and_Exceptions` | Error handling, exception types, try-except-finally, custom exceptions | Proper error handling makes programs robust and user-friendly; essential for production code | Uncrashable Calculator                    |
-| **031** | `030_Flashcard_App` | Tkinter UI design, CSV data handling with pandas, timed card flipping, state tracking | Combines GUI development with data persistence and timed events; strong practice for building interactive learning tools | Flashcard App                             |
-| **032** | `031_Sending_Emails` | SMTP email sending, automation triggers, date-based logic, environment variables, file handling | Email automation saves time and connects apps to real user communication; it demonstrates practical business logic and automation | Birthday Wisher                          |
-| **033** | `032_APIs` | HTTP requests, REST APIs, JSON parsing, requests library, error handling, consuming third-party services | Integrating APIs lets apps use live data and services; teaches parsing JSON, handling responses, and error cases | Kanye Quotes App                         |
-| **034** | `033_GUI_Quiz_App` | Tkinter GUI design, radio buttons, state management, question flow, score tracking | Builds a complete GUI quiz application that combines widgets, user input handling, and program state for a real interactive app | GUI Quiz App                             |
-| **035** | `034_API_Authentication` | API authentication, secure headers, request tokens, environment variables, protected API usage | Secure API access is essential for protecting data and integrating with private services; it is a core skill in real-world app integrations | Automated Rain Notification             |
-| **036** | `035_Stock_News` | Stock market API requests, JSON parsing, percentage change calculations, news API integration, alert logic | Combining live market and news data shows how apps can react to changing conditions and surface actionable updates | Stock Change and News Tracker            |
-| **037** | `036_Habit_Tracking` | requests, datetime, API integration, HTTP POST, headers, authentication tokens, JSON payloads | Demonstrates sending authenticated requests to record daily habits and automate activity tracking with Pixela | Habit Tracker (Steps Tracker)            |
-| **038** | `037_Exercise_Tracking` | requests, datetime, API integration, HTTP POST, headers, JSON payloads, Sheety/Sheety-like APIs | Automates logging workouts by parsing natural-language exercise input and posting workout entries to a sheet via API | Exercise Tracker |
+| Day | Folder | Topics Covered                                                                                             | Project                                   |
+|-----|--------|------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| **001** | `001_Prints_Variables_and_Inputs` | String printing, variable declaration, user input handling                                                 | Band Name Generator                       |
+| **002** | `002_Data_Types_and_Strings` | Data types, type casting, mathematical operators, rounding, f-strings                                      | Tip Calculator                            |
+| **003** | `003_Control_Flow_and_Operators` | If statements, boolean logic, comparison operators, logical operators                                      | Treasure Island Game                      |
+| **004** | `004_Randomisation_and_Lists` | random module, list creation, indexing, list methods (append, remove, pop), list iteration                 | Rock Paper Scissors                       |
+| **005** | `005_For_Loops` | For loops, range() function, loop iteration, loop control                                                  | Password Generator                        |
+| **006** | `006_Functions_and_Loops` | Functions, while loops, input validation, return values                                                    | Movie Rating Tracker                      |
+| **007** | `007_Hangman` | Consolidation through building a project, list handling, random selection, loops, conditionals             | Hangman                                   |
+| **008** | `008_Function_Parameters` | Function parameters, keyword arguments, default values, Caesar Cipher algorithm                            | Caesar Cipher                             |
+| **009** | `009_Dictionaries_and_Nesting` | Dictionaries, nested data structures, dictionary methods, key-value pairs, nesting dictionaries and lists  | Blind Auction Program                     |
+| **010** | `010_Functions_With_Outputs` | Function outputs, return statements, return values, functions as data, dictionary operations               | Calculator Program                        |
+| **011** | `011_Blackjack` | Lists, random.choice, game logic, conditionals, I/O                                                        | Blackjack                                 |
+| **012** | `012_Namescapes` | Variable scope, local vs global variables, functions, game state                                           | Number Guessing Game                      |
+| **013** | `013_Debugging` | Debugging, error handling, off-by-one errors, exception handling                                           | Digital Wallet Simulator                  |
+| **014** | `014_Student_Performance_Tracker` | Practice and consolidation, lists of dictionaries, averages, grade calculation                             | Student Performance Tracker               |
+| **015** | `015_Coffee_Machine_Project` | Functions, dictionaries, while loops, resource checking, payment processing                                | Coffee Machine Project                    |
+| **016** | `016_Intro_to_OOP` | Classes and objects, attributes, methods, instantiation, modular OOP design                                | OOP Coffee Machine Remake                 |
+| **017** | `017_More_OOP` | Classes, objects, methods, encapsulation, class interactions                                               | Quiz using OOP classes                    |
+| **018** | `018_Turtle_and_Tuples` | Turtle graphics, tuples, random walk, color extraction, nested loops                                       | Hirst Painting                            |
+| **019** | `019_Events_and_Instances` | Event-driven programming, instance methods, event binding (onkey, onclick), GUI interaction                | Turtle Race                               |
+| **020** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, initial game setup                                 | Snake Game Part 1                         |
+| **021** | `020_Snake_Game` | OOP, classes, keyboard controls, event-driven movement, game loop, collision detection                     | Snake Game (completed)                    |
+| **022** | `021_Ping_Pong_Game` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking                    | Ping Pong Game                            |
+| **023** | `022_Turtle_Crossy_Road` | Turtle graphics, OOP, keyboard controls, game loop, collision detection, score tracking                    | Turtle Crossy Road                        |
+| **024** | `023_Files_and_Directories` | File I/O, reading files, writing files, directory structure, string manipulation, automation               | Mail Merge Generator                      |
+| **025** | `024_CSV_and_Pandas` | CSV handling, pandas DataFrame manipulation, reading/writing CSVs, data cleaning                           | US State Guessing Games                   |
+| **026** | `025_List_Comprehension` | List comprehension, dictionary comprehension, elegant data transformation                                  | NATO Alphabet Conversion Program          |
+| **027** | `026_GUIs_with_TKinter` | Tkinter basics, widgets, layout managers, button callbacks, entry input handling                           | Miles to Kilometers Converter GUI Program |
+| **028** | `027_Pomodoro_TIMER` | Tkinter canvas, countdown timers, `after()` scheduling, GUI state management                               | Pomodoro Timer                            |
+| **029** | `028_Password_Manager` | Password generation, secure storage, file I/O, optional clipboard use                                      | Password Manager                          |
+| **030** | `029_Errors_and_Exceptions` | Error handling, exception types, try-except-finally, custom exceptions                                     | Uncrashable Calculator                    |
+| **031** | `030_Flashcard_App` | Tkinter UI design, CSV data handling with pandas, timed card flipping, state tracking                      | Flashcard App                             |
+| **032** | `031_Sending_Emails` | SMTP email sending, automation triggers, date-based logic, environment variables, file handling            | Birthday Wisher                           |
+| **033** | `032_APIs` | HTTP requests, REST APIs, JSON parsing, requests library, error handling, consuming third-party services   | Kanye Quotes App                          |
+| **034** | `033_GUI_Quiz_App` | Tkinter GUI design, radio buttons, state management, question flow, score tracking                         | GUI Quiz App                              |
+| **035** | `034_API_Authentication` | API authentication, secure headers, request tokens, environment variables, protected API usage             | Automated Rain Notification               |
+| **036** | `035_Stock_News` | Stock market API requests, JSON parsing, percentage change calculations, news API integration, alert logic | Stock Change and News Tracker             |
+| **037** | `036_Habit_Tracking` | requests, datetime, API integration, HTTP POST, headers, authentication tokens, JSON payloads              | Habit Tracker (Steps Tracker)             |
+| **038** | `037_Exercise_Tracking` | requests, datetime, API integration, HTTP POST, headers, JSON payloads, Sheety/Sheety-like APIs            | Exercise Tracker                          |
+| **039** | `038_Flight_Deal_Finder` | SerpAPI extraction, HTTP requests, JSON parsing, pagination, query construction                            | Flight Deal Extractor                     |
+| **040** | `038_Flight_Deal_Finder` | Deal scoring, destination filters, best-price selection, sorting, persistence                              | Best Deals Finder                         |
+| **041** | `039_Intro_to_HTML` | Basic HTML Tags, including headings, paragraphs, and links                                                | Understanding Basic HTML Syntax           |
 
 ---
 
@@ -66,6 +69,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 038/100
-- ✅ Current focus: Day 38 complete
-- 📈 Next milestone: Start Day 39
+- ✅ Days completed: 041/100
+- ✅ Current focus: Day 41 complete
+- 📈 Next milestone: Start Day 42
