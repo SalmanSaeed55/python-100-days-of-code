@@ -58,6 +58,7 @@ practical applications, and the learning value for my Python journey.
 | **039** | `038_Flight_Deal_Finder` | SerpAPI extraction, HTTP requests, JSON parsing, pagination, query construction                            | Flight Deal Extractor                     |
 | **040** | `038_Flight_Deal_Finder` | Deal scoring, destination filters, best-price selection, sorting, persistence                              | Best Deals Finder                         |
 | **041** | `039_Intro_to_HTML` | Basic HTML Tags, including headings, paragraphs, and links                                                | Understanding Basic HTML Syntax           |
+| **042** | `040_Intro_to_CSS` | Intro to CSS: selectors, external CSS, classes & IDs                                                      | Understanding Basic CSS Syntax            |
 
 ---
 
