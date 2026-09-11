@@ -60,6 +60,7 @@ practical applications, and the learning value for my Python journey.
 | **041** | `039_Intro_to_HTML` | Basic HTML Tags, including headings, paragraphs, and links                                                | Understanding Basic HTML Syntax           |
 | **042** | `040_Intro_to_CSS` | Intro to CSS: selectors, external CSS, classes & IDs                                                      | Understanding Basic CSS Syntax            |
 | **043** | `041_Web_Scraping` | Web scraping fundamentals, HTML parsing, and data extraction with BeautifulSoup                          | Top 100 Movies to Watch                   |
+| **044** | `042_Musical_Time_Machine` | Musical time handling, lists and mapping user input to songs, audio playback modules, time calculations | Musical Time Machine                      |
 
 ---
 
@@ -71,6 +72,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 041/100
-- ✅ Current focus: Day 41 complete
-- 📈 Next milestone: Start Day 42
+- ✅ Days completed: 044/100
+- ✅ Current focus: Day 44 complete
+- 📈 Next milestone: Start Day 45
