@@ -61,6 +61,7 @@ practical applications, and the learning value for my Python journey.
 | **042** | `040_Intro_to_CSS` | Intro to CSS: selectors, external CSS, classes & IDs                                                      | Understanding Basic CSS Syntax            |
 | **043** | `041_Web_Scraping` | Web scraping fundamentals, HTML parsing, and data extraction with BeautifulSoup                          | Top 100 Movies to Watch                   |
 | **044** | `042_Musical_Time_Machine` | Musical time handling, lists and mapping user input to songs, audio playback modules, time calculations | Musical Time Machine                      |
+| **045** | `043_Amazon_Price_Tracker` | BeautifulSoup HTML parsing, requests, product data extraction, price comparison logic, email alerts | Amazon Price Tracker                      |
 
 ---
 
@@ -72,6 +73,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 044/100
-- ✅ Current focus: Day 44 complete
-- 📈 Next milestone: Start Day 45
+- ✅ Days completed: 045/100
+- ✅ Current focus: Day 45 complete
+- 📈 Next milestone: Start Day 46
