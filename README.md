@@ -62,6 +62,7 @@ practical applications, and the learning value for my Python journey.
 | **043** | `041_Web_Scraping` | Web scraping fundamentals, HTML parsing, and data extraction with BeautifulSoup                          | Top 100 Movies to Watch                   |
 | **044** | `042_Musical_Time_Machine` | Musical time handling, lists and mapping user input to songs, audio playback modules, time calculations | Musical Time Machine                      |
 | **045** | `043_Amazon_Price_Tracker` | BeautifulSoup HTML parsing, requests, product data extraction, price comparison logic, email alerts | Amazon Price Tracker                      |
+| **046** | `044_Selenium_Webdriver` | Browser automation with Selenium, element locating, browser interactions, launching and controlling WebDriver | Selenium Webdriver Fundamentals           |
 
 ---
 
@@ -73,6 +74,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 045/100
-- ✅ Current focus: Day 45 complete
-- 📈 Next milestone: Start Day 46
+- ✅ Days completed: 046/100
+- ✅ Current focus: Day 46 complete
+- 📈 Next milestone: Start Day 47
