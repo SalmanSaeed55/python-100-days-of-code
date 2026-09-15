@@ -63,6 +63,7 @@ practical applications, and the learning value for my Python journey.
 | **044** | `042_Musical_Time_Machine` | Musical time handling, lists and mapping user input to songs, audio playback modules, time calculations | Musical Time Machine                      |
 | **045** | `043_Amazon_Price_Tracker` | BeautifulSoup HTML parsing, requests, product data extraction, price comparison logic, email alerts | Amazon Price Tracker                      |
 | **046** | `044_Selenium_Webdriver` | Browser automation with Selenium, element locating, browser interactions, launching and controlling WebDriver | Selenium Webdriver Fundamentals           |
+| **047** | `045_Exercise_Automater` | Selenium WebDriver, browser automation, login automation, dynamic element waits, DOM interaction, booking logic | Exercise Booking Automation              |
 
 ---
 
@@ -74,6 +75,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 046/100
-- ✅ Current focus: Day 46 complete
-- 📈 Next milestone: Start Day 47
+- ✅ Days completed: 047/100
+- ✅ Current focus: Day 47 complete
+- 📈 Next milestone: Start Day 48
