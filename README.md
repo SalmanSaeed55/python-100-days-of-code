@@ -64,6 +64,7 @@ practical applications, and the learning value for my Python journey.
 | **045** | `043_Amazon_Price_Tracker` | BeautifulSoup HTML parsing, requests, product data extraction, price comparison logic, email alerts | Amazon Price Tracker                      |
 | **046** | `044_Selenium_Webdriver` | Browser automation with Selenium, element locating, browser interactions, launching and controlling WebDriver | Selenium Webdriver Fundamentals           |
 | **047** | `045_Exercise_Automater` | Selenium WebDriver, browser automation, login automation, dynamic element waits, DOM interaction, booking logic | Exercise Booking Automation              |
+| **048** | `046_Network_Speed_Bot` | Selenium WebDriver, browser automation, interacting with dynamic pages, cookies, XPath selectors, waiting for results | Internet Speed Bot                        |
 
 ---
 
@@ -75,6 +76,6 @@ practical applications, and the learning value for my Python journey.
 ---
 
 ## 📊 Progress Overview
-- ✅ Days completed: 047/100
-- ✅ Current focus: Day 47 complete
-- 📈 Next milestone: Start Day 48
+- ✅ Days completed: 048/100
+- ✅ Current focus: Day 48 complete
+- 📈 Next milestone: Start Day 49
