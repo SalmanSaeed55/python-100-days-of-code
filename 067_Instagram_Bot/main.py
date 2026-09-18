@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+import time
 
 USERNAME = "salmansaeed1359@gmail.com"
 PASSWORD = "mYKz3v3iAIDO2tZg"
@@ -26,8 +27,14 @@ class InstagramFollowersBot:
 
         login_button = self.driver.find_element(By.XPATH, '/html/body/div/aside/div/form/button')
         login_button.click()
-        save_info = self.driver.find_element(By.XPATH, '//*[@id="popup-save-login"]/div/button')
-        save_info.click()
+        save_info = self.driver.find_elements(By.XPATH, "//div[contains(text(), 'Not now')]")
+        if save_info:
+            save_info[0].click()
+        time.sleep(1)
+
+        notifications = self.driver.find_elements(By.XPATH, "//button[contains(text(), 'Not Now')]")
+        if notifications:
+            notifications[0].click()
 
         def login(self):
             pass
