@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
+from selenium.common.exceptions import ElementClickInterceptedException
 
 USERNAME = "salmansaeed1359@gmail.com"
 PASSWORD = "mYKz3v3iAIDO2tZg"
@@ -36,15 +37,27 @@ class InstagramFollowersBot:
         if notifications:
             notifications[0].click()
 
-        def login(self):
-            pass
+    def find_followers(self):
+        self.driver.get(f"{URL.split('/welcome')[0]}/u/{TARGET_FOLLOWERS}/followers")
+        time.sleep(2)
 
-        def find_followers(self):
-            pass
+        modal = self.driver.find_element(By.CSS_SELECTOR, ".followers-scroll")
+        for _ in range(10):
+            self.driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", modal)
+            time.sleep(1)
 
-        def follow(self):
-            pass
+    def follow(self):
+        all_buttons = self.driver.find_elements(By.CSS_SELECTOR, ".followers-scroll button")
+        for button in all_buttons:
+            try:
+                button.click()
+                time.sleep(1)
+            except ElementClickInterceptedException:
+                cancel = self.driver.find_element(By.XPATH, "//button[contains(text(), 'Cancel')]")
+                cancel.click()
 
 
 instagram_bot = InstagramFollowersBot()
 instagram_bot.login()
+instagram_bot.find_followers()
+instagram_bot.follow()

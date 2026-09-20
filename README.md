@@ -65,6 +65,7 @@ practical applications, and the learning value for my Python journey.
 | **046** | `044_Selenium_Webdriver` | Browser automation with Selenium, element locating, browser interactions, launching and controlling WebDriver | Selenium Webdriver Fundamentals           |
 | **047** | `045_Exercise_Automater` | Selenium WebDriver, browser automation, login automation, dynamic element waits, DOM interaction, booking logic | Exercise Booking Automation              |
 | **048** | `046_Network_Speed_Bot` | Selenium WebDriver, browser automation, interacting with dynamic pages, cookies, XPath selectors, waiting for results | Internet Speed Bot                        |
+| **049** | `047_Instagram_Bot` | Selenium WebDriver, browser automation, login automation, dynamic page interactions, follower discovery, account engagement | Instagram Follower Bot                  |
 
 ---
 
