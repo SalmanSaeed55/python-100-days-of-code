@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 import time
 from selenium.common.exceptions import ElementClickInterceptedException
 
-USERNAME = "salmansaeed1359@gmail.com"
-PASSWORD = "mYKz3v3iAIDO2tZg"
+USERNAME = "example@email.com"
+PASSWORD = "yourPassword"
 
 URL = "https://app.100daysofpython.dev/services/share-a-naan/welcome"
 TARGET_FOLLOWERS = "elaineducasse"
